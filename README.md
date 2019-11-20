@@ -80,3 +80,6 @@
 
 #### PLY (Python Lex-Yacc) 使用说明请参考： https://github.com/dabeaz/ply
 -----------------------------------------------------------------------------------------------
+### 运行效果图：
+![Image text](https://github.com/dongpengfei826153155/SelectorToXpath/blob/master/picture/run_result.png)
+-----------------------------------------------------------------------------------------------
